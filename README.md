@@ -25,6 +25,6 @@ O Desafio "SPA Universe" é a criação de uma interface web simples, utilizando
 
 <h2>🔗 Página</h2>
 <p>Por meio desse link você pode ter acesso ao site.</p>
-<a href="https://spa-universe-ten-rho.vercel.app/">Página</a>
+<a href="https://spa-universe-ten-rho.vercel.app/" target="_blank">Página</a>
 
 </aside>
